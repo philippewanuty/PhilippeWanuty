@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Philippe Wanuty</h1>
+<h3 align="center">A Developer Python, Django and Flask</h3>
 
-<!--
-**philippewanuty/philippewanuty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/philippewanuty)](https://github.com/philippewanuty)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/philippe-wanuty-079702181/)](https://www.linkedin.com/in/philippe-wanuty-079702181/)
+  [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:philippewanuty@hotmail.com)](mailto:philippewanuty@hotmail.com)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Flask/SQL
+- 📖 ADS Student
+- 📫 How to reach me: **Philippewanuty@hotmail.com**
+
+
+</p>
