@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Philippe Wanuty</h1>
-<h3 align="center">A Developer Python, Django and Flask</h3>
+<h3 align="center">A Developer Python, Django and JavaScript</h3>
 
 <div align="center">
 
