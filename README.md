@@ -12,5 +12,3 @@
 - 📖 ADS Student
 - 📫 How to reach me: **Philippewanuty@hotmail.com**
 
-
-</p>
