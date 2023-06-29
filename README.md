@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Philippe Wanuty</h1>
-<h3 align="center">Developer Front-End - | Javascript | ReactJS |</h3>
+<h3 align="center">Developer Front-End - | HTML | CSS | Javascript | ReactJS </h3>
 
 <div align="center">
 
