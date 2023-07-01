@@ -8,6 +8,7 @@
   [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:philippewanuty@hotmail.com)](mailto:philippewanuty@hotmail.com)
 </div>
 
+- 💻 I’m currently Working on Something new!
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 📖 ADS Student
 - 📫 How to reach me: **Philippewanuty@hotmail.com**
