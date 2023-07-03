@@ -9,7 +9,8 @@
 </div>
 
 - 💻 I’m currently Working on Something new!
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🪴 I’m currently improving my HTML - CSS - JavaScript
+- 🌱 Next learnings - ReactJS | NodeJS
 - 📖 ADS Student
 - 📫 How to reach me: **Philippewanuty@hotmail.com**
 
