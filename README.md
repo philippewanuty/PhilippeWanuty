@@ -13,6 +13,3 @@
 - 🌱 Next learnings - ReactJS | NodeJS
 - 📖 ADS Student
 - 📫 How to reach me: **Philippewanuty@hotmail.com**
-
-<div align="left"
-  <a "href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/649c7977d99c9d67319db6e6?variant=dark&roadmaps=frontend%2Cjavascript%2Creact%2Cnodejs" alt="roadmap.sh"/></a> </div>
