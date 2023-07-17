@@ -13,3 +13,5 @@
 - 🌱 Next learnings - ReactJS | NodeJS
 - 📖 ADS Student
 - 📫 How to reach me: **Philippewanuty@hotmail.com**
+
+ <img align="botton" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippewanuty&custom_title=Languages&&hide=issues&title_color=e5e5e5&icon_color=545454&bg_color=0d1117&text_color=dddddd&hide_border=true&layout=compact&langs_count=7&theme=white"/>
