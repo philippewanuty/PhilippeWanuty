@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Philippe Wanuty</h1>
-<h3 align="center">Developer Front-End - | HTML | CSS | Javascript | ReactJS | NodeJS </h3>
+<h3 align="center">Web Developer - | HTML | CSS | Javascript | ReactJS | NodeJS </h3>
 
  <div align="center">
    <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
