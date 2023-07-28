@@ -1,6 +1,6 @@
 Para usar as mesmas configs e fonts que eu uso para programar é só instalar a fonte e copiar esses dois arquivos para a parta .vscode no seu diretório.
 
-Caso as extensões não peça para instalar automaticamente basta digitar @recommended na busca de extensções que elas irão aparecer para você.
+Caso as extensões não peça para instalar automaticamente basta digitar @recommended na busca de extensões que elas irão aparecer para você.
 
 Enjoy! 
 
