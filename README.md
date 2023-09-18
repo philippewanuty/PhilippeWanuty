@@ -3,8 +3,8 @@
 
 
 - 💻 I’m currently Working on Something new!
-- 🪴 I’m currently improving my knowledge in - HTML | CSS | JavaScript
-- 🌱 Next learnings - ReactJS | NodeJS
+- 🪴 I’m currently improving my knowledge in - Node.JS
+- 🌱 Next learnings - ReactJS | Tailwind
 - 📖 ADS Student
 - 📫 How to reach me: **contact@philippewanuty.com**
   
