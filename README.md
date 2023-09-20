@@ -7,8 +7,7 @@
 - 💻 I’m currently Working on Something new!
 - 🪴 I’m currently improving my knowledge in - Node.JS
 - 🌱 Next learnings - ReactJS | Tailwind
-- 📖 ADS Student
-- 📫 How to reach me: **contact@philippewanuty.com**
+- 📇 Personal Portfolio: <a href="https://philippewanuty.com">philippewanuty.com </a>
   
 
  
