@@ -5,8 +5,8 @@
 <div align="left">
   
 - 💻 I’m currently Working on Something new!
-- 🪴 I’m currently improving my knowledge in - Node.JS
-- 🌱 Next learnings - ReactJS | Tailwind
+- 🪴 I’m currently improving my knowledge in -  ReactJS | Tailwind
+- 🌱 Next learnings - Node.JS
 - 📇 Personal Portfolio: <a href="https://philippewanuty.com">philippewanuty.com </a>
   
 
