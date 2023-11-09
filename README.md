@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Philippe+Wanuty;I'm+a+Web+Developer+Front-End;Welcome!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Olá%2C+Meu+nome+é+Philippe+Wanuty;Eu+Sou+Desenvolvedor+Front-End;Bem-vindo!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img align="right" height="670px" width="330px" src="https://raw.githubusercontent.com/philippewanuty/philippewanuty.github.io/main/assets/img/IMAGEM%20LATERAL.png"> 
 
 <div align="left">
   
-- 💻 I’m currently Working on Something new!
-- 🪴 I’m currently improving my knowledge in -  ReactJS | Tailwind
-- 🌱 Next learnings - Node.JS
-- 📇 Personal Portfolio: <a href="https://philippewanuty.com">philippewanuty.com </a>
+- 💻 O segredo da programação é a prática!!
+- 🪴 Atualmente estou adquirindo conhecimento em:  ReactJS | Styled Components 
+- 🌱 Próximos aprendizados - Node.JS
+- 📇 Portifólio pessoal: <a href="https://philippewanuty.com">philippewanuty.com </a>
   
 
  
@@ -16,7 +16,7 @@
  <img align="left" width="400x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippewanuty&custom_title=Languages&&hide=issues&title_color=e5e5e5&icon_color=545454&bg_color=0d1117&text_color=dddddd&hide_border=true&layout=compact&langs_count=7&theme=white"/>
 
 <br><br><br><br><br><br><br><br><br><br><br>
-   <h1>Technologies</h1>
+   <h1>Technologias</h1>
    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
@@ -27,7 +27,7 @@
  </div>  
 
  
- <h1>Contact</h1>
+ <h1>Contato</h1>
 
  <a href="https://linkedin.com/in/philippewanuty" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-philippewanuty-05122A?style=flat&logo=linkedin" alt="linkedin"/>
