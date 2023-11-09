@@ -6,7 +6,7 @@
   
 - 💻 O segredo da programação é a prática!!
 - 🪴 Atualmente estou adquirindo conhecimento em:  ReactJS | Styled Components 
-- 🌱 Próximos aprendizados - Node.JS
+- 🌱 Próximo aprendizado: Node.JS
 - 📇 Portifólio pessoal: <a href="https://philippewanuty.com">philippewanuty.com </a>
   
 
