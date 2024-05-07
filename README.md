@@ -5,8 +5,8 @@
 <div align="left">
   
 - 💻 O segredo da programação é a prática!!
-- 🪴 Atualmente estou adquirindo conhecimento em:  ReactJS | Styled Components 
-- 🌱 Próximo aprendizado: Node.JS
+- 🪴 Atualmente estou adquirindo conhecimento em:  Back-end NodeJS
+- 🌱 Próximo aprendizado: React Native
 - 📇 Portifólio pessoal: <a href="https://philippewanuty.com">philippewanuty.com </a>
   
 
